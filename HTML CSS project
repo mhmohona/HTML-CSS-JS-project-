@@ -1,7 +1,7 @@
 <head>
   <style type="text/css">
-     html {
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxl2JgPe3ciZZJegEP5c5lml6yRfA9akSwCr-I8u1lv1uC_pNcjw) no-repeat center center fixed;
+      html {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fJJNvPlGJf3-Iaqh2d0XY4iWC7gJj5XmuPIQWwWBPBcM5Ktu) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -123,7 +123,7 @@ body {
 .filter-btn span {
   width: 40px;
   height: 40px;
-  background: #0e750f;
+  background: #588261;
   display: block;
   position: absolute;
   right: 25px;
